@@ -1,0 +1,6 @@
+{
+  "name": "Portal Spensadil - Portal Siswa & Portal Guru",
+  "description": "Aplikasi pengumpulan tugas berbasis Android SMP N 1 Adiluwih Pringsewu dengan Portal Siswa dan Portal Guru multi-akun terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
